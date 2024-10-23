@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chikkichaitanaya
-- 👀 I’m interested in leearning coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python CSS java script
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python CSS Javascript
 - 📫 How to reach me chiragvyas62@gmail.com
 
 <!---
